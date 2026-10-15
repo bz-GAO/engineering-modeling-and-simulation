@@ -1,0 +1,20 @@
+# MATLAB temporary files
+*.asv
+*.autosave
+*.m~
+slprj/
+codegen/
+
+# Course-provided raw datasets: kept locally, not published until redistribution is confirmed
+案例1/data/*.csv
+
+# Personal reports, submission packages, and course handouts
+*.docx
+*.pdf
+*.zip
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
